@@ -1,0 +1,2 @@
+# Gatsby Exploration Into Nostalgic Exploitation
+This project was a part of an english project exploring the role nostalgia plays in outside exploitation. To do so, I started with a philosophical enquiry and discussion for which I later developed a mathematical model and code implementation. The attached paper explains this process and the results in detail. The associated code is included as well.
